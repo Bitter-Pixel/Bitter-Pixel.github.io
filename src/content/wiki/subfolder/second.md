@@ -2,7 +2,7 @@
 title: Second page
 ---
 
-Link to [First Page](./first)  
-Link to [Counter Page](../counter)
+Link to [First Page](/wiki/subfolder/first)  
+Link to [Counter Page](/wiki/counter)
 
 Link to [Index](/)
